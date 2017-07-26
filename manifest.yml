@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: whdevops
-  host: whdevops
+  host: helloworld112358
   disk_quota: 1024M
